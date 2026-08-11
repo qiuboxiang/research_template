@@ -1,0 +1,8 @@
+dataset_id: dataset:synthetic-regression@1.0.0
+_target_: research.data.synthetic.SyntheticRegressionData
+num_train: 128
+num_test: 32
+input_dim: 4
+noise: 0.05
+batch_size: 16
+seed: 7
