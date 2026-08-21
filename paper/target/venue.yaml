@@ -3,19 +3,18 @@ id: iclr-2027
 name: International Conference on Learning Representations
 year: 2027
 status: ready
-fetched_at: '2026-08-11T08:29:32.350839Z'
+fetched_at: '2026-08-21T04:03:51.094160Z'
 source_urls:
 - https://iclr.cc/Conferences/2027/AuthorGuidelines
 - https://openreview.net/group?id=ICLR.cc/2027/Conference
 - https://github.com/ICLR/Master-Template
 - https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip
 source_hashes:
-  https://iclr.cc/Conferences/2027/AuthorGuidelines: 457909711bcd28c0792e15374000375299fdea171c4960bc8b565ea7eb60d1be
-  https://openreview.net/group?id=ICLR.cc/2027/Conference: e1343d87221c10657ae18332e51b243793e6824c16614600f2122c11a3852ec9
-  https://github.com/ICLR/Master-Template: 74110edc21fe0d46563b50b692c4d4a8b349b4fb03925f03b5c66b49c80c52e7
+  https://iclr.cc/Conferences/2027/AuthorGuidelines: 0bd0acfd447e18525374c1726b6d46316db94fbe90ad78686abe435ec8ae1358
+  https://github.com/ICLR/Master-Template: ee17bb65ed0885e9bef2ec094964890382fe8896d39a7b3279c8eebfe7c27a9f
   https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip: 0d940dfa9398ae99a18f24a85a8a683f367204b6af6d17d2899e60a67102529e
 deadlines:
-  abstract: Sep 18, 2026 AOE
+  abstract: Sep 18, 2026 11:59 PM AOE
   paper: Sep 25, 2026 AOE
 timezone: AoE
 submission_url: https://openreview.net/group?id=ICLR.cc/2027/Conference
